@@ -1,0 +1,7 @@
+Automatic water pump system with dry sump protection.
+
+This system monitors the water in an overhead tank and equally monitors the sump tank, when water level is low, it turns the pump ON and when level is High or filled,
+it turns the pump OFF automatically and it displays its state on an LCD and LEDs aswell which makes it very user friendly.
+Same is applicable when the sump tank is down(empty), it keeps the pump off until the presense of water is noticed again, this help to prevent the pumping machine from
+running dry thereby preventing damage to the machine.
+When ever theres a disconnected in the probes it sends an error signal with a buzzing sound.
